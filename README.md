@@ -1,4 +1,6 @@
 # carsays
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/abdulhannanali/carsays.svg)](https://greenkeeper.io/)
 What does the car say? NOOOOODE NOOOOOODE NOOOOOOODE
 
 ## Compiling and running
